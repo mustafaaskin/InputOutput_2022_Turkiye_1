@@ -20,3 +20,6 @@ Some balancing error fixed. Source file contain non-zero values in cells with sc
 
 version 03: input_output_yurtici_2022_Turkiye_v03.xlsx
 Some sectors have greater stocks relative to other sectors. They have been fixed. 
+
+version 04: input_output_yurtici_2022_Turkiye_v04.xlsx
+Negative Expenditure Values fixed and adjusted. Some stock and export values are adjusted for balancing purposes. Totals are revised and balanced.
