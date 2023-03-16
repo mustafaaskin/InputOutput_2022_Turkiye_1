@@ -14,5 +14,5 @@ version 01: input_output_yurtici_2022_Turkiye_v01.xlsx
 version 02: input_output_yurtici_2022_Turkiye_v02.xlsx
 Some balancing error fixed. Source file contain non-zero values in cells with scientific notation which distort balance. 
 
-version 03: input_output_yurtici_2022_Turkiye_v02.xlsx
+version 03: input_output_yurtici_2022_Turkiye_v03.xlsx
 Some sectors have greater stocks relative to other sectors. They have been fixed. 
