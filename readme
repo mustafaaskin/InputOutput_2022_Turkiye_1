@@ -1,6 +1,13 @@
 This is an experimental data file.
-There is 2012 domestic input output table for Turkiye published by TurkStat.
+
+TurkStat released 2012 domestic input output table for Turkiye published in 2016.
+
 For analysis purposes, we need current input output table.
 I updated and projected the current IO table to 2022.
 
 I shared it in github.
+
+I will change tables whenever needed. This is the first version.
+
+version 01: input_output_yurtici_2022_Turkiye_v01.xlsx
+
