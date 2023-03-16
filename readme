@@ -11,3 +11,6 @@ I will change tables whenever needed. This is the first version.
 
 version 01: input_output_yurtici_2022_Turkiye_v01.xlsx
 
+version 02: input_output_yurtici_2022_Turkiye_v02.xlsx
+Some balancing error fixed. Source file contain non-zero values in cells with scientific notation which distort balance. 
+
