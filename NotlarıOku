@@ -1,0 +1,24 @@
+Notlar
+
+Burası kendi analiz ihtiyaçlarım için oluşturduğum veri setlerini tuttuğum ve paylaştığım bir dosya deposu.
+
+Türkiye İstatistik Kurumu (TÜİK) 2016 yılında 2012 baz yılı ile Türkiye'nin Yurtiçi  Girdi - Çıktı Tablosu yayınladı.
+Bu tabloyu 2022 yılına kadar dengeleri sağlayacak şekilde revize ettim ve genişlettim.
+
+Tüm veri setlerini versiyonları ile kendi github adresime ekledim ve paylaşıyorum.
+
+Medium web sayfasında veri seti kestiriminde kullanılan metodolojiyi paylaştım. Aşağıda bağlantısı bulunmaktadır:
+
+https://medium.com/@mustafaaskin1981/2022-turkiye-yurtiçi-girdi-çıktı-tablosu-8a672a02a380
+
+Gerek gördüğümde tabloları değiştireceğim.
+
+sürüm 01: input_output_yurtici_2022_Turkiye_v01.xlsx
+
+sürüm 02: input_output_yurtici_2022_Turkiye_v02.xlsx
+Bazı dengeleme hataları düzeltildi. Kaynak dosya, dengeyi bozan bilimsel gösterime sahip hücrelerde sıfır olmayan değerler içeriyordu. Düzeltildi.
+
+sürüm 03: input_output_yurtici_2022_Turkiye_v03.xlsx
+Bazı sektör diğer sektörlere göre daha fazla stok bulunuyordu. Düzeltildi.
+
+
